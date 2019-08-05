@@ -10,7 +10,7 @@ import Main from "./components/Main.vue";
 export default {
   data() {
     return {
-      title: "COMMING SOON.",
+      title: "COMING SOON.",
       social: {
         facebook: "https://www.facebook.com/Mr.Emmanuel.Paul",
         twitter: "https://twitter.com/_EmmanuelPaul",
@@ -36,7 +36,7 @@ body {
 }
 html {
   overflow: hidden !important;
-  /* background-image: url("./assets/background.jpg") !important; */
+  background-image: url("./assets/background.jpg") !important;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
