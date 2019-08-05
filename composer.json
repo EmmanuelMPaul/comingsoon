@@ -1,4 +1,7 @@
 {
+  "name": "comingsoon",
+  "description": "coming soon web page",
+  "version": "0.1.0",
   "require": {
     "vlucas/phpdotenv": "^3.4",
     "mailgun/mailgun-php": "^2.8",
