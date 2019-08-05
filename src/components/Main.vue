@@ -33,13 +33,7 @@
             <p class="subtitle is-5">Website Under Construction</p>
             <br />
             <p class="subtitle is-6">get notified when I'm Back</p>
-            <form
-              @submit.prevent="onSend"
-              action="mail.php"
-              id="mailform"
-              method="POST"
-              autocomplete="off"
-            >
+            <form @submit.prevent="onSend" id="mailform" method="POST" autocomplete="off">
               <div class="field">
                 <p class="control has-icons-left has-icos-right">
                   <input
